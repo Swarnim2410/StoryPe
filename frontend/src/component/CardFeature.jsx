@@ -17,7 +17,7 @@ const CardFeature = ({ title, image, description }) => {
         />
       </div>
       <div className="description-container overflow-auto max-h-40 sm:max-h-52 md:max-h-64 lg:max-h-80 text-center">
-        <p className="font-bold italic text-black">{description}</p>
+        <p className="font-bold italic text-blue-800">{description}</p>
       </div>
     </div>
   );
