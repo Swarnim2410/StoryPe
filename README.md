@@ -12,12 +12,12 @@ FRONTEND_URL : --> frontend url <--
 
 Frontend Environment variables :
 
-VITE_APP_DOMAIN = --> frontend url <--
+VITE_APP_DOMAIN = --> backend url <--
 
 To run backend : 
 
 npm install
-npm run dev ( in package.json(), add a script for "dev" : "nodemon 
+npm run dev ( in package.json(), add a script for "dev" : "nodemon index.js
 
 To run frontend : 
 
