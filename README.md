@@ -1,5 +1,5 @@
 Tech Stacks involved --> HTML, Tailwind CSS, React, JavaScript, NodeJS, Express and MongoDB. Provides options to add a new Story and displays all the stories dynamically 
-in real time. The recent uploaded story will be given priority and will be displayed at the start. The images are uploaded on Cloudinary through multer.
+in real time. The recent uploaded story will be given priority and will be displayed at the start. The images are uploaded on Cloudinary through multer. A new story will be displayed as soon as its get added because of the use of socket.io library.
 
 Backend Environment variables :
 
