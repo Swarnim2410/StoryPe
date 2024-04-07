@@ -26,9 +26,11 @@ cd frontend
 npm install 
 npm run dev
 
+****** SNAPSHOTS *****
+
 (1) This is the home page where all the stories will be displayed
 
-![Screenshot 2024-04-07 232353](https://github.com/Swarnim2410/WebPe/assets/131441406/86387202-8d3a-4aa0-a3cf-13ccee2c9704)
+![Screenshot 2024-04-07 233019](https://github.com/Swarnim2410/WebPe/assets/131441406/d86a2101-6136-4166-95fa-62da3ef48afb)
 
 (2) This is the add story section where one can add a new story (The actual access will only be provided to an admin)
 
