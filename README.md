@@ -16,10 +16,12 @@ VITE_APP_DOMAIN = --> backend url <--
 
 To run backend : 
 
+cd backend
 npm install
 npm run dev ( in package.json(), add a script for "dev" : "nodemon index.js
 
 To run frontend : 
 
+cd frontend
 npm install 
 npm run dev
