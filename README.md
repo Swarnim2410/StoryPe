@@ -25,3 +25,6 @@ To run frontend :
 cd frontend
 npm install 
 npm run dev
+
+![Screenshot 2024-04-07 232353](https://github.com/Swarnim2410/WebPe/assets/131441406/86387202-8d3a-4aa0-a3cf-13ccee2c9704)
+
