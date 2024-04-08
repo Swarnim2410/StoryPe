@@ -5,7 +5,7 @@ const CardFeature = ({ title, image, description }) => {
 
   return (
     <div className="focus:ring-4 focus:outline-none focus:ring-slate-300 dark:focus:ring-slate-800 shadow-xl shadow-slate-500/50 dark:shadow-lg dark:shadow-slate-800/80 min-w-[300px] max-w-[400px] sm:min-w-[500px] sm:max-w-[600px] md:min-w-[600px] md:max-w-[700px] lg:min-w-[600px] lg:max-w-[700px] rounded-lg p-4 py-5 px-4 cursor-pointer flex flex-col bg-slate-400">
-      <h3 className="font-bold text-black capitalize text-lg mt-4 text-left w-full mb-6 sm:mb-7 md:mb-8 lg:mb-8">
+      <h3 className="font-bold text-black capitalize text-3xl mt-4 text-left w-full mb-6 sm:mb-7 md:mb-8 lg:mb-8">
         {title}
       </h3>
 

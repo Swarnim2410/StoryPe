@@ -56,7 +56,7 @@ function Home() {
     <div>
       <div className="">
         <div className="flex w-full items-center">
-          <p className="font-bold text-2xl text-slate-600 mb-4">Stories</p>
+          <p className="pl-3 pt-3 font-bold text-4xl text-slate-400 mb-4">Stories</p>
           <div className="ml-auto flex gap-3">
             <button className="text-lg text-white" onClick={prevProduct}>
               <GrPrevious />
